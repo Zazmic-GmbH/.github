@@ -7,4 +7,4 @@ Zazmic GmbH unterstützt die Philosophie der freien Software und sieht den Open-
 # Los Geht's
 
 Werden Sie Teil unserer wachsenden Gemeinschaft, experimentieren Sie mit unseren Lösungen, stellen Sie Fragen und fühlen Sie sich eingeladen, etwas beizutragen. 
-Weitere Informationen über unsere Open-Source-Aktivitäten finden Sie unter zazmic.at/open-source. Auf der [Karriereseite](zazmic.at/careers) von Zazmic GmbH. können Sie nach Möglichkeiten zur Mitarbeit in unserem schnell wachsenden Team suchen.
+Weitere Informationen über unsere Open-Source-Aktivitäten finden Sie unter [zazmic.at/open-source](https://zazmic.at/open-source). Auf der [Karriereseite](https://zazmic.at/careers) von Zazmic GmbH. können Sie nach Möglichkeiten zur Mitarbeit in unserem schnell wachsenden Team suchen.

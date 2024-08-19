@@ -1,4 +1,4 @@
-![zazmic gmbh landing](https://storage.googleapis.com/zazmic-github/LinkedInCover_1_Deutsch@1x.jpg)
+![zazmic gmbh landing](https://zazmic.at/public/assets/images/LinkedInCover_1_Deutsch.jpg)
 
 # Herzlich Willkommen
 
